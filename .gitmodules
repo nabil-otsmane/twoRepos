@@ -1,0 +1,6 @@
+[submodule "youtube-vlc-main"]
+	path = youtube-vlc-main
+	url = ./youtube-vlc-main/
+[submodule "unit3_Project-main"]
+	path = unit3_Project-main
+	url = ./unit3_Project-main/
